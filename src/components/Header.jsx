@@ -1,3 +1,9 @@
+/**
+ * Header Component
+ * Displays the blog name in the header section.
+ *
+ * @param {string} name - The name of the blog to display
+ */
 function Header({ name }) {
   return (
     <header>
